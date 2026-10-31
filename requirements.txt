@@ -1,0 +1,7 @@
+streamlit
+numpy
+pillow
+matplotlib
+astropy
+astroquery
+reproject
